@@ -35,8 +35,8 @@ Coder 💻 Problem Solver 🧮
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvikAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 47%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikAB&theme=dark&hide_border=false" style="width: 47%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvikAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 49%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvikAB&theme=dark&hide_border=false" style="width: 49%;" />
 </div>
 <br/>
 <div>
