@@ -10,7 +10,7 @@ Coder  💻 Problem Solver  🧮
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AvikAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AvikAB&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AvikAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide=c++,c,python,kotlin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
