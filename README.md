@@ -36,7 +36,7 @@ Noob Coder 💻 Problem Solver 🧮
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23F99B4D.svg?logo=codeforces&logoColor=blue)](https://codeforces.com/profile/yourusername) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%230A0A0A.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/yourusername) 
 [![AtCoder](https://img.shields.io/badge/AtCoder-%233782BF.svg?logo=atcoder&logoColor=white)](https://atcoder.jp/users/yourusername) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Avik_AB17/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Avicious/)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
