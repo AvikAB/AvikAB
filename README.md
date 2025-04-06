@@ -60,4 +60,8 @@ Noob Coder 💻 Problem Solver 🧮
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AvikAB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📊 Status Card
+![Codeforces Stats Card](https://cf-stats-api.vercel.app/api?username=Avicious)
+
+
 
