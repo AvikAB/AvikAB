@@ -46,7 +46,7 @@ Noob Coder 💻 Problem Solver 🧮
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AvikAB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+ <!--
 ## 📊 Competitive Programming Stats:
 
 ### Codeforces Stats:
@@ -57,7 +57,7 @@ Noob Coder 💻 Problem Solver 🧮
 
 
 
- <!--
+
 ### CodeChef Stats:
 ![CodeChef Stats](https://raw.githubusercontent.com/<avicious>/codechef-readme-stats/output/codechef_card.svg)
  <!--
