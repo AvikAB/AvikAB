@@ -5,7 +5,7 @@ Noob Coder 💻 Problem Solver 🧮
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/avik.ab17) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/avicious17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_avicious_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avicious) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_avicious_)
 
 ## 🏆 Competitive Programming Profiles:
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23F99B4D.svg?logo=codeforces&logoColor=blue)](https://codeforces.com/profile/) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23F99B4D.svg?logo=codeforces&logoColor=blue)](https://codeforces.com/) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%230A0A0A.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/avicious) 
 [![AtCoder](https://img.shields.io/badge/AtCoder-%233782BF.svg?logo=atcoder&logoColor=white)](https://atcoder.jp/users/Avicious) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Avicious/)
