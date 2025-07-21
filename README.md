@@ -55,7 +55,9 @@ Noob Coder 💻 Problem Solver 🧮
 ### LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avicious?theme=dark&font=Roboto&ext=heatmap)
 
+<!--
 ### CodeChef Stats:
 ![CodeChef Stats](https://raw.githubusercontent.com/<avicious>/codechef-readme-stats/output/codechef_card.svg)
+--!>
  
 
