@@ -55,10 +55,10 @@ Noob Coder 💻 Problem Solver 🧮
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avicious&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Avicious)
 
 ### Codeforces Stats:
-![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=Avicious&theme=dark)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=Avicious&theme=dark)](https://codeforces.com/profile/Avicious)
 
 ### LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Avicious?theme=dark&font=Roboto&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Avicious?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/Avicious)
 
 <!--
 ### CodeChef Stats:
