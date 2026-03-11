@@ -54,6 +54,9 @@ Noob Coder 💻 Problem Solver 🧮
 ### Codeforces Stats:
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Avicious&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Avicious)
 
+### Codeforces Stats:
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=Avicious&theme=dark)
+
 ### LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avicious?theme=dark&font=Roboto&ext=heatmap)
 
